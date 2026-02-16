@@ -45,7 +45,7 @@ To develop a production-style ML pipeline that:
 
 ---
 
-## ⚙️ Model Performance
+##  Model Performance
 
 | Metric          | Score |
 | --------------- | ----- |
