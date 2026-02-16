@@ -20,9 +20,6 @@ To develop a production-style ML pipeline that:
 
 ---
 
-
----
-
 ##  Machine Learning Approach
 
 ### Dataset
