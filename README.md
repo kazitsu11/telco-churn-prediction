@@ -1,6 +1,6 @@
-# 📞 Telco Customer Churn Prediction (Deployed Machine Learning Project)
+# Telco Customer Churn Prediction (Deployed Machine Learning Project)
 
-## 🔍 Project Overview
+##  Project Overview
 
 Customer churn is a major problem in the telecom industry. Acquiring a new customer costs **5–7× more** than retaining an existing one.
 This project builds an end-to-end Machine Learning system that predicts whether a telecom customer is likely to leave the company and provides a **churn risk probability**.
@@ -9,7 +9,7 @@ The system is deployed as an interactive web application where a user can enter 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To develop a production-style ML pipeline that:
 
@@ -20,13 +20,10 @@ To develop a production-style ML pipeline that:
 
 ---
 
-## 🚀 Live Application
-
-👉 *(Paste your Render deployment link here)*
 
 ---
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 ### Dataset
 
@@ -64,7 +61,7 @@ The focus was not only accuracy but **detecting churn customers early**, which i
 
 ---
 
-## 🧪 Features Used
+##  Features Used
 
 * Customer tenure
 * Contract type
@@ -79,7 +76,7 @@ The focus was not only accuracy but **detecting churn customers early**, which i
 
 ---
 
-## 🖥️ Web Application
+##  Web Application
 
 The model is deployed using **Streamlit**.
 
@@ -94,7 +91,7 @@ Users can:
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 telco-churn-prediction/
@@ -109,7 +106,7 @@ telco-churn-prediction/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
@@ -122,7 +119,7 @@ telco-churn-prediction/
 
 ---
 
-## 📊 How to Run Locally
+##  How to Run Locally
 
 ```bash
 git clone https://github.com/yourusername/telco-churn-prediction.git
@@ -134,7 +131,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Business Impact
+##  Business Impact
 
 The system helps telecom companies:
 
@@ -145,7 +142,7 @@ The system helps telecom companies:
 
 ---
 
-## 📌 Key Learning Outcomes
+##  Key Learning Outcomes
 
 * Built an end-to-end ML pipeline
 * Worked with imbalanced datasets
@@ -156,7 +153,7 @@ The system helps telecom companies:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Kshitij Joshi**
 
